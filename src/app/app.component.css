@@ -1,0 +1,45 @@
+.container {
+  position: relative;
+  border: lightseagreen solid 3px;
+}
+nav {
+  position: absolute;
+  left: 0px;
+  width: 160px;
+  border: deeppink solid 3px;
+  padding: 20px;
+  font-family: Arial;
+  line-height: 1.5;
+  color: hotpink;
+}
+li {
+  color: black;
+}
+a {
+  color: hotpink;
+}
+body {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+section {
+  position: relative;
+  top: 0;
+  margin-left: 206px;
+  border: orange solid 3px;
+  padding: 20px;
+  font-family: Arial;
+  line-height: 1.5;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+}
+body {
+  margin-bottom: 120px;
+}
